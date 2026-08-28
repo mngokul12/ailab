@@ -1,4 +1,0 @@
-ds-lab@ds-lab-System-Product-Name:~/ailab421125106026/ex01$ python3 ex01.py
-Enter the name that you wanna search: Eve
-FoundEve: {'name': 'Eve', 'age': 45, 'city': 'Phoenix'}
-ds-lab@ds-lab-System-Product-Name:~/ailab421125106026/ex01$ 
